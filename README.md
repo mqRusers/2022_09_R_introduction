@@ -1,4 +1,9 @@
 # 2022_09_R_introduction
+Workshop recording avaialble for download here:
+https://macquarie.zoom.us/rec/share/zaGrA9GY4usKv2UaLEFZyGvQ2BdOPamjnkUzpVqMlGskocs-CZlkperiNC4LB-Ss._TxdpQZe1YkxLOD4?startTime=1663297869000 
+
+____________________________________
+
 Introduction to R and the R user group
 
 Dear participants of the Intro to R workshop,
